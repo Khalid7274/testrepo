@@ -1,0 +1,7 @@
+Test ID# 001
+Description: Login
+setups: 
+1. Login to website
+2. Enter username
+3. Enter password
+4. press the submitt button
