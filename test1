@@ -1,7 +1,11 @@
 Test ID# 001
 Description: Login
 setups: 
-1. Login to website
-2. Enter username
+1. Login to web site
+2. Enter user name
 3. Enter password
-4. press the submitt button
+4. press the submit button
+
+Test ID#2 
+
+validation the login with incorrect name
